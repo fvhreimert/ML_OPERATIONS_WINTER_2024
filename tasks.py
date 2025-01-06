@@ -1,8 +1,7 @@
 import os
 import sys
 
-# ændring test 
-
+# ændring test
 from invoke import task
 
 CURRENT_DIR = os.getcwd()
